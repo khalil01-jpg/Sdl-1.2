@@ -1,0 +1,45 @@
+# Doxyfile simple
+
+# Informations sur le projet
+PROJECT_NAME           = "Mon Projet SDL"
+PROJECT_BRIEF          = "Documentation simple pour un jeu en C avec SDL"
+
+# Répertoire de sortie
+OUTPUT_DIRECTORY       = docs
+OUTPUT_LANGUAGE        = French
+
+# Fichiers à documenter
+INPUT                  = .
+FILE_PATTERNS          = *.c *.h
+RECURSIVE              = YES
+
+# Extraction de documentation
+EXTRACT_ALL            = YES
+EXTRACT_PRIVATE        = NO
+EXTRACT_STATIC         = NO
+
+# Formats générés
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
+GENERATE_MAN           = NO
+GENERATE_RTF           = NO
+
+# Personnalisation de l'HTML
+HTML_TIMESTAMP         = YES
+# Pas de logo, pas de footer custom
+# PROJECT_LOGO         = 
+# HTML_HEADER          =
+# HTML_FOOTER          =
+
+# Navigation dans le code source
+SOURCE_BROWSER         = YES
+INLINE_SOURCES         = YES
+
+# Affichage des fichiers
+SHOW_FILES             = YES
+SHOW_INCLUDE_FILES     = YES
+
+# Exclusion de certains fichiers/dossiers si besoin
+EXCLUDE                = */test/*
+EXCLUDE_PATTERNS       = *.test.c
+

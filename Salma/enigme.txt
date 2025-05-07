@@ -1,0 +1,51 @@
+*What lights the dark cave?
+Torch
+Lantern
+Candle
+1
+*What howls in the night?
+Wolf
+Wind
+Bat
+1
+*What guides lost souls?
+Map
+Star
+Moon
+2
+*What hides in ruins?
+Ghost
+Bat
+Rat
+1
+*What opens ancient doors?
+Key
+Spell
+Sword
+2
+*What lurks in shadows?
+Beast
+Spirit
+Hunter
+1
+*What marks the trail?
+Blood
+Steps
+Claw
+2
+*What flies in silence?
+Owl
+Raven
+Bat
+3
+*What sleeps below?
+Dragon
+Demon
+Worm
+1
+*What warns of traps?
+Sign
+Light
+Bone
+3
+
